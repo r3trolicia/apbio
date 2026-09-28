@@ -1,8 +1,6 @@
 baseURL: http://0.0.0.0:1313/
-title: Documentation
+title: AP Bio Notebook
 theme: hugo-book
-
-copyright: "This is a copyright placeholder"
 
 # Book configuration
 disablePathToLower: true
@@ -39,17 +37,17 @@ markup:
 
 menu:
   home:
-    - name: "Documentation"
+    - name: "AP Bio Notebook"
       pageRef: "/docs/"
       weight: 10
     - name: "Github"
-      url: "https://github.com/r3trolicia/apbiok/"
+      url: "https://github.com/r3trolicia/apbio/"
       weight: 20
 
   # before: []
   after:
     - name: "Github"
-      url: "https://github.com/alex-shpak/hugo-book"
+      url: "https://github.com/r3trolicia/apbio/"
       weight: 10
 
 taxonomies:
