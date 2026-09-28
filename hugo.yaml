@@ -43,7 +43,7 @@ menu:
       pageRef: "/docs/"
       weight: 10
     - name: "Github"
-      url: "https://github.com/alex-shpak/hugo-book/"
+      url: "https://github.com/r3trolicia/apbiok/"
       weight: 20
 
   # before: []
