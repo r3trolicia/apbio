@@ -98,30 +98,30 @@ For Part 2, the identical procedure was repeated with one deliberate change: ins
 | Outdoor light (Part 2) | 16.0 min | 0.063 disks/min |
 | % change in rate | — | ≈ +148% |
 
-![Figure 1: Floating disks over time, baseline vs. treatment](static/images/photosynthesis-lab/graph1.png)
+![Figure 1: Floating disks over time, baseline vs. treatment](/static/images/photosynthesis-lab/graph1.png)
 *Figure 1. Number of floating disks over time for the Part 1 baseline curve.*
 
-![Figure 2: Combined curves](static/images/photosynthesis-lab/graph2.png)
+![Figure 2: Combined curves](/static/images/photosynthesis-lab/graph2.png)
 *Figure 2. Baseline and outdoor-light treatment curves plotted together, color-coded, over the full 20-minute trial.*
 
-![Figure 3: ET50 reference lines](static/images/photosynthesis-lab/graph3.png)
+![Figure 3: ET50 reference lines](/static/images/photosynthesis-lab/graph3.png)
 *Figure 3. The same combined graph with a horizontal reference line at 5 disks (50%) and vertical drop lines marking each curve's ET₅₀.*
 
-![Figure 4: Rate comparison bar chart](static/images/photosynthesis-lab/graph4.png)
+![Figure 4: Rate comparison bar chart](/static/images/photosynthesis-lab/graph4.png)
 *Figure 4. Bar chart comparing 1/ET₅₀ (rate) for the baseline versus the outdoor-light treatment.*
 
 **Lab Photos — Baseline Trial**
 
-![Baseline setup 1](static/images/photosynthesis-lab/baseline-1.jpg)
-![Baseline setup 2](static/images/photosynthesis-lab/baseline-2.jpg)
-![Baseline setup 3](static/images/photosynthesis-lab/baseline-3.jpg)
+![Baseline setup 1](/static/images/photosynthesis-lab/baseline-1.jpg)
+![Baseline setup 2](/static/images/photosynthesis-lab/baseline-2.jpg)
+![Baseline setup 3](/static/images/photosynthesis-lab/baseline-3.jpg)
 *Progress photos of the Part 1 baseline trial under indoor light.*
 
 **Lab Photos — Outdoor Light Trial**
 
-![Outdoor light setup 1](static/images/photosynthesis-lab/outdoorlight-1.jpg)
-![Outdoor light setup 2](static/images/photosynthesis-lab/outdoorlight-2.jpg)
-![Outdoor light setup 3](static/images/photosynthesis-lab/outdoorlight-3.jpg)
+![Outdoor light setup 1](/static/images/photosynthesis-lab/outdoorlight-1.jpg)
+![Outdoor light setup 2](/static/images/photosynthesis-lab/outdoorlight-2.jpg)
+![Outdoor light setup 3](/static/images/photosynthesis-lab/outdoorlight-3.jpg)
 *Progress photos of the Part 2 outdoor-light treatment trial.*
 
 ## Discussion
