@@ -1,4 +1,4 @@
-baseURL: https://r3trolicia.github.io/apbio/
+baseURL: http://0.0.0.0:1313/
 title: AP Bio Notebook
 theme: hugo-book
 
