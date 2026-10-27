@@ -113,6 +113,8 @@ For each student, change = post minus pre. The standard deviation (s) of those c
 
 **Step 3. Locate the block.** The evidence points to **reception**. First, sugar sweetness fell 4.07 points (interval −5.02 to −3.12, excluding 0) while MSG umami changed by +0.05 (−0.99 to 1.08, including 0). Second, M&M sweetness fell 4.37 points while MSG bitter changed −0.13 (including 0). A block in the shared transduction steps would have lowered umami and bitter as well, so that location is ruled out. A block in the common response step (depolarization and ATP release) is also ruled out because salty and sour tastes did not fall. The bitter evidence is weaker than the umami evidence because bitter ratings were low to begin with.
 
+**Step 4. Draw the model.** The two-panel model (Panel A, normal; Panel B, after Gymnema) is shown as Figure 2 in the Results section.
+
 **Step 5. Test the model.** If a different compound blocked PLCβ2, the changed part of Panel B would look like the sketch below.
 
 ![Sketch: PLCβ2 blocked](/apbio/images/cell-signaling-taste-lab/plcb2-block-sketch.png)
